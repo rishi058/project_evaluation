@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028600384233",
+    "project_id": "scaler-assignment-c8caa",
+    "storage_bucket": "scaler-assignment-c8caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028600384233:android:b5c08b2d3cf43620f93e78",
+        "android_client_info": {
+          "package_name": "com.example.scaler_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64tO433EwzBAFOpNR5Xuwr7scjCr7Xzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
